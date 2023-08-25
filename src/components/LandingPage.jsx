@@ -75,10 +75,11 @@ const LandingPage = () => {
                       {/* H1 Heading */}
                       <h1>10dollar</h1>
                       {/* H2 Heading */}
-                      <h2>Your Passport to the Future of Entertainment and Empowerment</h2>
+                      <h2>Your Passport to the Future<br></br> of Entertainment and Empowerment</h2>
                       {/* Paragraph */}
                       <p>
                       Bringing Together Entertainment Enthusiasts and Rising Artists for an Unforgettable Experience"
+                      <br></br> Join us in celebrating the boundless realm of creativity, where every vote <br></br>And interaction shapes the future of entertainment."
                       </p>
                       {/* Buttons */}
                       <a href="#" className="slide-button slide-button-active">Download</a>
@@ -95,14 +96,13 @@ const LandingPage = () => {
                       {/* H1 Heading */}
                       <h1>10dollar</h1>
                       {/* H2 Heading */}
-                      <h2>Empowering Artists and Fans: Unleash Your Creativity with 10dollar</h2>
+                      <h2>Empowering Artists and Fans:<br></br> Unleash Your Creativity with 10dollar</h2>
                       {/* Paragraph */}
                       <p>
-                      Elevate your passion for entertainment with 10dollar,
-                      a groundbreaking platform designed for both emerging artists and devoted fans.
-                      Discover fresh talent, support your favorite performers, and engage in a dynamic community that celebrates creativity like never before. 
-                      From thrilling live shows to interactive voting and generous rewards,
-                      10dollar is your gateway to a world of artistry, connection, and shared success.
+                      Elevate your passion for entertainment with 10dollar,<br></br>
+                      a groundbreaking platform designed for both emerging artists and devoted fans.<br></br>
+                      Discover fresh talent, support your favorite performers, and engage in a dynamic <br></br>community that celebrates creativity like never before.<br></br>
+                     
                       </p>
                       {/* Buttons */}
                       <a href="#" className="slide-button slide-button-active">Download </a>
@@ -119,10 +119,11 @@ const LandingPage = () => {
                       {/* H1 Heading */}
                       <h1>10dollar</h1>
                       {/* H2 Heading */}
-                      <h2>Ready to showcase your app</h2>
+                      <h2>Where Creativity is Encouraged</h2>
                       {/* Paragraph */}
                       <p>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting indus orem Ipsum has been the industry's standard dummy text ever since the when an own printer took a galley
+                      From thrilling live shows to interactive voting and generous rewards,<br></br>
+                      10dollar is your gateway to a world of artistry, connection, and shared success.
                       </p>
                       {/* Buttons */}
                       <a href="#" className="slide-button slide-button-active">Download </a>
@@ -139,10 +140,11 @@ const LandingPage = () => {
                       {/* H1 Heading */}
                       <h1>10dollar</h1>
                       {/* H2 Heading */}
-                      <h2>Ready to showcase your app</h2>
+                      <h2>Fostering Creativity, Fueling Dreams:<br></br> Where Artists and Fans Unite</h2>
                       {/* Paragraph */}
                       <p>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting indus orem Ipsum has been the industry's standard dummy text ever since the when an own printer took a galley
+                      Immerse yourself in a world where artistic visions come to life.<br></br> 10dollar-App is the convergence of burgeoning talents and dedicated fans,<br></br> igniting a journey of shared dreams and vibrant connections.
+
                       </p>
                       {/* Buttons */}
                       <a href="#" className="slide-button slide-button-active">Download now</a>
