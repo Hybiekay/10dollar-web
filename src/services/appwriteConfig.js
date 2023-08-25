@@ -3,8 +3,8 @@ import { Appwrite } from "appwrite";
 const sdk = new Appwrite();
 
 sdk
-    .setEndpoint('hhttps://cloud.appwrite.io/v1') // Your API Endpoint
-    .setProject('641cad6f2169798a4400') // Your project ID
+    .setEndpoint('http://localhost/v1') // Your API Endpoint
+    .setProject('615d2a5948ae9') // Your project ID
 ;
 
 

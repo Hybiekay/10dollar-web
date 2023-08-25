@@ -5,12 +5,12 @@ import Login from './components/login';
 import Signup from './components/Signup';
 import ForgetPassword from "./components/ForgetPassword";
 import ResetPassword from "./components/ResetPassword";
+import LandingPage from "./components/LandingPage";
 
 function App() {
   return (
     <Router>
       <Switch>
-    
         <Route path="/signup">
           <Signup />
         </Route>
@@ -23,8 +23,11 @@ function App() {
         <Route path="/reset-password">
          <ResetPassword/>
         </Route>
-        <Route path="/">
+        <Route path="/login">
           <Login />
+        </Route>
+        <Route path="/">
+          <LandingPage />
         </Route>
       </Switch>
     </Router>
