@@ -4,9 +4,6 @@ import React from 'react';
 const LandingPage = () => {
     return (
       <div>
-   
-      
-
         {/* WRAPPER */}
         {/* Preloader */}
         <div className="wrapper preloader" id="site-home">
@@ -23,7 +20,7 @@ const LandingPage = () => {
                       <div className="site-logo">
                         <a href="index.html">
                           <img src="images/logo.png" alt="Logo" />
-                          <span>Smart</span>
+                          <span>10dollar</span>
                         </a>
                       </div>
                       {/* END LOGO */}
@@ -76,12 +73,12 @@ const LandingPage = () => {
                     {/* Caption */}
                     <div className="slide-caption">
                       {/* H1 Heading */}
-                      <h1>Smart</h1>
+                      <h1>10dollar</h1>
                       {/* H2 Heading */}
-                      <h2>Ready to showcase your app</h2>
+                      <h2>Your Passport to the Future of Entertainment and Empowerment</h2>
                       {/* Paragraph */}
                       <p>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting indus orem Ipsum has been the industry's standard dummy text ever since the when an own printer took a galley
+                      Bringing Together Entertainment Enthusiasts and Rising Artists for an Unforgettable Experience"
                       </p>
                       {/* Buttons */}
                       <a href="#" className="slide-button slide-button-active">Download</a>
@@ -96,12 +93,16 @@ const LandingPage = () => {
                     {/* Caption */}
                     <div className="slide-caption">
                       {/* H1 Heading */}
-                      <h1>Smart</h1>
+                      <h1>10dollar</h1>
                       {/* H2 Heading */}
-                      <h2>Ready to showcase your app</h2>
+                      <h2>Empowering Artists and Fans: Unleash Your Creativity with 10dollar</h2>
                       {/* Paragraph */}
                       <p>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting indus orem Ipsum has been the industry's standard dummy text ever since the when an own printer took a galley
+                      Elevate your passion for entertainment with 10dollar,
+                      a groundbreaking platform designed for both emerging artists and devoted fans.
+                      Discover fresh talent, support your favorite performers, and engage in a dynamic community that celebrates creativity like never before. 
+                      From thrilling live shows to interactive voting and generous rewards,
+                      10dollar is your gateway to a world of artistry, connection, and shared success.
                       </p>
                       {/* Buttons */}
                       <a href="#" className="slide-button slide-button-active">Download </a>
@@ -116,7 +117,7 @@ const LandingPage = () => {
                     {/* Caption */}
                     <div className="slide-caption">
                       {/* H1 Heading */}
-                      <h1>Smart</h1>
+                      <h1>10dollar</h1>
                       {/* H2 Heading */}
                       <h2>Ready to showcase your app</h2>
                       {/* Paragraph */}
@@ -136,7 +137,7 @@ const LandingPage = () => {
                     {/* Caption */}
                     <div className="slide-caption">
                       {/* H1 Heading */}
-                      <h1>Smart</h1>
+                      <h1>10dollar</h1>
                       {/* H2 Heading */}
                       <h2>Ready to showcase your app</h2>
                       {/* Paragraph */}
@@ -249,20 +250,18 @@ const LandingPage = () => {
             </div>
           </section>
           {/* ABOUT APP */}
-          <section id="about-smart" className="site-about-app left-heading section-grey">
+          <section id="about-10dollar" className="site-about-app left-heading section-grey">
             <div className="container">
               <div className="row">
                 <div className="col-xs-12 col-sm-12 col-md-6">
                   <div className="about-half-colom-section">
                     {/* H1 HEADING */}
-                    <h1>About smart</h1>
+                    <h1>About 10dollar</h1>
                     <div className="about-half-colom-section-content">
                       <p>
-                        Lorem Ipsum is simply dummy text of the printing and typeseing indury Lorem Ipsum has been the industry's standard dummy text ever since the when an Lorem Ipsum is simply dummy text of the dummy text of the printing anprinting
-                        <strong className="bold-color">Amazing Smart app landing page</strong> Lorem Ipsum has been the industry's standard dummy text ever since the when.Lorem Ipsum is simply text of the y Lorem Ipsum has been the industry's
-                        standard dndustry's standard dumummy text ever since the when an Lorem Ipsum.<br />
-                        <br /> Lorem Ipsum is simply dummy text of the printing and typeseing indury Lorem Ipsum has been the industry's standard dummy text ever since the when an Lorem Ipsum is simply dummy text mmy text of tof the dummy text
-                        of the printing anprinting and typeseing.
+                      Welcome to 10dollar-App, the ultimate platform that redefines the way artists and fans interact, collaborate, and celebrate talent. 
+                        <strong className="bold-color"> Amazing 10dollar app</strong> Our innovative ecosystem bridges the gap between emerging artists and their dedicated supporters, offering a dynamic space for discovery, empowerment, and shared success<br />
+                        <br /> From interactive voting and staking to a vibrant community hub, <strong className="bold-color"> 10dollar-App </strong> transforms entertainment into an engaging and rewarding journey for all.
                       </p>
                       <section className="site-download-icons about-icon">
                         {/* BUTTON 1 */}
@@ -391,7 +390,7 @@ const LandingPage = () => {
                     <div className="two-colom-content">
                       <p>
                         Lorem Ipsum is simply dummy text of the printing and typeseing indury Lorem Ipsum has been the industry's standard dummy text ever since the when an Lorem Ipsum is simply dummy text of the dummy text of the printing anprinting
-                        <strong className="highlited-text">Amazing Smart app landing page</strong> Lorem Ipsum has been the industry's standard dummy text ever since the when.Lorem Ipsum is simply text of the y Lorem Ipsum has been the indushe
+                        <strong className="highlited-text">Amazing 10dollar app landing page</strong> Lorem Ipsum has been the industry's standard dummy text ever since the when.Lorem Ipsum is simply text of the y Lorem Ipsum has been the indushe
                         industry's stry's standard dummy text ever since the when an Lorem Ipsum.
                       </p>
                     </div>
@@ -418,7 +417,7 @@ const LandingPage = () => {
                     <div className="two-colom-content">
                       <p>
                         Lorem Ipsum is simply dummy text of the printing and typeseing indury Lorem Ipsum has been the industry's standard dummy text ever since the when an Lorem Ipsum is simply dummy text of the dummy text of the printing anprinting
-                        <strong className="highlited-text">Amazing Smart app landing page</strong> Lorem Ipsum has been the industry's standard dummy text ever since the when.Lorem Ipsum is simply text of the y Lorem Ipsum has been the indushe
+                        <strong className="highlited-text">Amazing 10dollar app landing page</strong> Lorem Ipsum has been the industry's standard dummy text ever since the when.Lorem Ipsum is simply text of the y Lorem Ipsum has been the indushe
                         industry's stry's standard dummy text ever since the when an Lorem Ipsum.
                       </p>
                     </div>
@@ -695,7 +694,7 @@ const LandingPage = () => {
               <div className="row">
                 <div className="col-xs-12">
                   {/* H1 HEADING */}
-                  <h1>Smart Download</h1>
+                  <h1>10dollar Download</h1>
                   {/* DOWNLOAD ICONS */}
                   <section className="site-download-icons">
                     <div className="align-center">
@@ -1110,7 +1109,7 @@ const LandingPage = () => {
                                 </figure>
                                 {/* user name */}
                                 <h5>Mr. Jhon Due</h5>
-                                <span className="testimonial-degignation">Founder at Smart Technologies</span>
+                                <span className="testimonial-degignation">Founder at 10dollar Technologies</span>
                                 {/* paragraph */}
                                 <p>
                                   Lorem Ipsum is simply dummy text of the printing and typeseing industry Lorem Ipsum has been the industry standard dummy text Lorem is simply.
@@ -1128,7 +1127,7 @@ const LandingPage = () => {
                                 </figure>
                                 {/* user name */}
                                 <h5>Devil Shohe</h5>
-                                <span className="testimonial-degignation">Founder at Smart Technologies</span>
+                                <span className="testimonial-degignation">Founder at 10dollar Technologies</span>
                                 {/* paragraph */}
                                 <p>
                                   Lorem Ipsum is simply dummy text of the printing and typeseing industry Lorem Ipsum has been the industry standard dummy text Lorem is simply.
@@ -1146,7 +1145,7 @@ const LandingPage = () => {
                                 </figure>
                                 {/* user name */}
                                 <h5>Devil Shohe</h5>
-                                <span className="testimonial-degignation">Founder at Smart Technologies</span>
+                                <span className="testimonial-degignation">Founder at 10dollar Technologies</span>
                                 {/* paragraph */}
                                 <p>
                                   Lorem Ipsum is simply dummy text of the printing and typeseing industry Lorem Ipsum has been the industry standard dummy text Lorem is simply.
@@ -1365,7 +1364,7 @@ const LandingPage = () => {
                     <div className="col-xs-12 col-sm-12 col-md-7 col-lg-7">
                       <div className="site-info form">
                         <h5> Send us message! </h5>
-                        <form action="../../../../../../external.html?link=http://kalanidhithemes.com/live-preview/landing-page/smart-app-landing-page/all-demo/default-version-purple-blue-gredient/php/form.php" method="post" className="site-contact-form" id="myForm">
+                        <form action="../../../../../../external.html?link=http://kalanidhithemes.com/live-preview/landing-page/10dollar-app-landing-page/all-demo/default-version-purple-blue-gredient/php/form.php" method="post" className="site-contact-form" id="myForm">
                           <label>
                             <input className="app-btn value-clear" type="text" name="app_name" placeholder="Name" required="required" />
                           </label>
@@ -1426,7 +1425,7 @@ const LandingPage = () => {
             <div className="container">
               <div className="row">
                 <div className="col-xs-12">
-                  <h1> Download Smart Now</h1>
+                  <h1> Download 10dollar Now</h1>
                   {/* DOWNLOAD ICONS */}
                   <section className="site-download-icons">
                     <div className="align-center">
@@ -1495,7 +1494,7 @@ const LandingPage = () => {
         {/* scroll top */}
         {/* Template Changeable Plugin Options */}
         {/*Wow animation js */}
-        {/* Mirrored from kalanidhithemes.com/live-preview/landing-page/smart-app-landing-page/all-demo/default-version-purple-blue-gredient/index.html by HTTrack Website Copier/3.x [XR&CO'2017], Thu, 24 Aug 2023 16:28:30 GMT */}
+        {/* Mirrored from kalanidhithemes.com/live-preview/landing-page/10dollar-app-landing-page/all-demo/default-version-purple-blue-gredient/index.html by HTTrack Website Copier/3.x [XR&CO'2017], Thu, 24 Aug 2023 16:28:30 GMT */}
       </div>
     );
   }
